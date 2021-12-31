@@ -10,9 +10,9 @@
 
 Data release associated with the publication [Is the Orbital Distribution of Multi-Planet Systems Influenced by Pure 3-Planet Resonances?](LinkDelPaperEnArxiv.com) which appeared in MNRAS XYZ,ABC (2022)
 
-- DOI: [blabla](google.com)
-- ADS: [blabla](google.com)
-- Cite: [Bibtex entry](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..10N/exportcitation)
+- DOI: [TBD](google.com)
+- ADS: [TBD](google.com)
+- Cite: [TBD](google.com)
 
 ## Contents
 
